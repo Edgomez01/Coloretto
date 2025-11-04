@@ -1,4 +1,5 @@
-﻿#include "JuegoColoretto.h"
+
+#include "JuegoColoretto.h"
 #include <iostream>
 #include <algorithm>
 #include <random>
@@ -337,4 +338,3 @@ void JuegoColoretto::imprimirFilasMesa() const {
 
 		cout << endl;
 	}
-}
