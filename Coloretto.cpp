@@ -13,4 +13,3 @@ int main()
     cout << "¡El Juego ha finalizado!" << endl;
     return 0;
 }
-
